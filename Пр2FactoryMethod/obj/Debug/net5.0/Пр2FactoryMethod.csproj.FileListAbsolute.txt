@@ -1,0 +1,16 @@
+D:\Пр2FactoryMethod\bin\Debug\net5.0\Пр2FactoryMethod.exe
+D:\Пр2FactoryMethod\bin\Debug\net5.0\Пр2FactoryMethod.deps.json
+D:\Пр2FactoryMethod\bin\Debug\net5.0\Пр2FactoryMethod.runtimeconfig.json
+D:\Пр2FactoryMethod\bin\Debug\net5.0\Пр2FactoryMethod.runtimeconfig.dev.json
+D:\Пр2FactoryMethod\bin\Debug\net5.0\Пр2FactoryMethod.dll
+D:\Пр2FactoryMethod\bin\Debug\net5.0\ref\Пр2FactoryMethod.dll
+D:\Пр2FactoryMethod\bin\Debug\net5.0\Пр2FactoryMethod.pdb
+D:\Пр2FactoryMethod\obj\Debug\net5.0\Пр2FactoryMethod.csproj.AssemblyReference.cache
+D:\Пр2FactoryMethod\obj\Debug\net5.0\Пр2FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пр2FactoryMethod\obj\Debug\net5.0\Пр2FactoryMethod.AssemblyInfoInputs.cache
+D:\Пр2FactoryMethod\obj\Debug\net5.0\Пр2FactoryMethod.AssemblyInfo.cs
+D:\Пр2FactoryMethod\obj\Debug\net5.0\Пр2FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Пр2FactoryMethod\obj\Debug\net5.0\Пр2FactoryMethod.dll
+D:\Пр2FactoryMethod\obj\Debug\net5.0\ref\Пр2FactoryMethod.dll
+D:\Пр2FactoryMethod\obj\Debug\net5.0\Пр2FactoryMethod.pdb
+D:\Пр2FactoryMethod\obj\Debug\net5.0\Пр2FactoryMethod.genruntimeconfig.cache
