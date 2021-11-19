@@ -1,0 +1,16 @@
+D:\Пр3\bin\Debug\net5.0\Пр3.exe
+D:\Пр3\bin\Debug\net5.0\Пр3.deps.json
+D:\Пр3\bin\Debug\net5.0\Пр3.runtimeconfig.json
+D:\Пр3\bin\Debug\net5.0\Пр3.runtimeconfig.dev.json
+D:\Пр3\bin\Debug\net5.0\Пр3.dll
+D:\Пр3\bin\Debug\net5.0\ref\Пр3.dll
+D:\Пр3\bin\Debug\net5.0\Пр3.pdb
+D:\Пр3\obj\Debug\net5.0\Пр3.csproj.AssemblyReference.cache
+D:\Пр3\obj\Debug\net5.0\Пр3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пр3\obj\Debug\net5.0\Пр3.AssemblyInfoInputs.cache
+D:\Пр3\obj\Debug\net5.0\Пр3.AssemblyInfo.cs
+D:\Пр3\obj\Debug\net5.0\Пр3.csproj.CoreCompileInputs.cache
+D:\Пр3\obj\Debug\net5.0\Пр3.dll
+D:\Пр3\obj\Debug\net5.0\ref\Пр3.dll
+D:\Пр3\obj\Debug\net5.0\Пр3.pdb
+D:\Пр3\obj\Debug\net5.0\Пр3.genruntimeconfig.cache
