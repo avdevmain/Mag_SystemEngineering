@@ -1,22 +1,18 @@
 using System;
 public class SomeManager
 {
-    public static SomeManager instance;
-
-    private void Awake() {
-        getInstance();
-    }
+    private static SomeManager instance;
    
-    SomeManager getInstance() {
-        if (instance == null) 
-            {instance  = this;}
+    public static SomeManager getInstance() {
+        if (SomeManager.instance == null) 
+            {SomeManager.instance  = new SomeManager();}
         
-        return instance; //else Destroy(this);
+        return SomeManager.instance; 
 
         
     }
 
-    public static void SomeVoidMethod() {
+    public void SomeVoidMethod() {
         Console.WriteLine("Mr. Salieri sends his regards");
         Console.ReadLine();
     }
