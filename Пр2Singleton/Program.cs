@@ -6,7 +6,9 @@ namespace Пр2Singleton
     {
         static void Main(string[] args)
         {
-            SomeManager.SomeVoidMethod();
+            SomeManager manager = SomeManager.getInstance();
+            
+            manager.SomeVoidMethod();
         }
     }
 }
