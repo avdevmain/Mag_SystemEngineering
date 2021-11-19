@@ -6,9 +6,12 @@ namespace Пр2Singleton
     {
         static void Main(string[] args)
         {
-            SomeManager manager = SomeManager.getInstance();
+            ProgressManager manager = ProgressManager.getInstance();
             
-            manager.SomeVoidMethod();
+            int achievementsCount = manager.GetAchievementsCount();
+        
+            Console.WriteLine("Total achievements: " + achievementsCount);
+            Console.ReadLine();
         }
     }
 }
