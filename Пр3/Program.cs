@@ -25,6 +25,7 @@ namespace Пр3
 
             do
             {
+            invalid = false;
             Console.WriteLine("Select level type");
             Console.WriteLine("Input '0' for Ground, '1' for Water or '2' for Air.");
             value = Convert.ToInt32(Console.ReadLine());
@@ -37,8 +38,6 @@ namespace Пр3
                 {levelType = new AirType();} //Задать стратегию 2
             else {invalid = true; Console.WriteLine("Wrong value, select something in range 0-2!");}
             } while (invalid == true);
-
-            invalid = false;
             
             Builder builder = null;
         
