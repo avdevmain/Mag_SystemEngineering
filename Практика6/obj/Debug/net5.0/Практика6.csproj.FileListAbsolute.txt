@@ -1,0 +1,16 @@
+D:\Практика6\bin\Debug\net5.0\Практика6.exe
+D:\Практика6\bin\Debug\net5.0\Практика6.deps.json
+D:\Практика6\bin\Debug\net5.0\Практика6.runtimeconfig.json
+D:\Практика6\bin\Debug\net5.0\Практика6.runtimeconfig.dev.json
+D:\Практика6\bin\Debug\net5.0\Практика6.dll
+D:\Практика6\bin\Debug\net5.0\ref\Практика6.dll
+D:\Практика6\bin\Debug\net5.0\Практика6.pdb
+D:\Практика6\obj\Debug\net5.0\Практика6.csproj.AssemblyReference.cache
+D:\Практика6\obj\Debug\net5.0\Практика6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика6\obj\Debug\net5.0\Практика6.AssemblyInfoInputs.cache
+D:\Практика6\obj\Debug\net5.0\Практика6.AssemblyInfo.cs
+D:\Практика6\obj\Debug\net5.0\Практика6.csproj.CoreCompileInputs.cache
+D:\Практика6\obj\Debug\net5.0\Практика6.dll
+D:\Практика6\obj\Debug\net5.0\ref\Практика6.dll
+D:\Практика6\obj\Debug\net5.0\Практика6.pdb
+D:\Практика6\obj\Debug\net5.0\Практика6.genruntimeconfig.cache
